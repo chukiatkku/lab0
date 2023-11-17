@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="C:\Users\Admin\OneDrive\Desktop\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C:\Users\Admin\OneDrive\เอกสาร\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C:\Users\Admin\OneDrive\เอกสาร\Visual Studio 2022\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
